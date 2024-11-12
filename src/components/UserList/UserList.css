@@ -1,0 +1,18 @@
+ li{
+    margin-bottom: 3px;
+    padding: 8px;
+    background-color: rgb(255, 255, 255);
+    text-decoration: none;
+    list-style:decimal;
+    box-shadow: grey 2px;
+   
+}
+ul{
+  background-color: rgb(103, 169, 169);
+  padding-right: 5px;
+}
+ 
+.icon{
+float: inline-end;
+  
+}
